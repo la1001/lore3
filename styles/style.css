@@ -1,0 +1,22 @@
+.card 
+    
+{opacity: 90%;
+
+background: scroll;
+
+}
+
+
+
+.img-circle{
+    border-radius: 90%;
+    
+}
+.card-i{
+   background-image: url(/img/download.png);
+ 
+}
+
+.btn-info{
+    text-decoration-color: aqua;
+}
